@@ -1,7 +1,6 @@
 <br> Descriçao: Relógio para partidas de xadrez </br>
 <br> Explicação: Cada vez que o jogador acaba uma jogada e bate no relógio para contar o tempo do outro
-            o tempo máximo é de 3 minutos quando finda o tempo o jogador adversário vence. E tempo total da partida de 30   
-            minutos</br>
+            o tempo máximo é de 3 minutos quando finda o tempo o jogador adversário vence. E tempo total da partida de 30 minutos</br>
            
            <!-- PROJETO.md -->
            
